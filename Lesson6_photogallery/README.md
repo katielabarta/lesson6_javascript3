@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 12th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Katie Labarta)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I built an application that lets the user flip through a series of images. I used javascript to change the content based on externla events.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://katielabarta.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (document.addEventListener attaches an event handler to the document)
+2. (populateFigures is a function that can be used to change the src attribute values of img elements.)
+3. (You can use DOM methods to create new nodes.)
